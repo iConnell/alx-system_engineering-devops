@@ -68,3 +68,9 @@ chmod --reference=olleh hello
 adds the same exact permissions as the file olleh to the file hello
 ```
 
+### [11-directory_permissions](./11-directory_permissions)
+```
+chmod +X .
+adds execute privilages to evereyone for all subdirectories in the current directory
+```
+
