@@ -74,3 +74,9 @@ chmod +X .
 adds execute privilages to evereyone for all subdirectories in the current directory
 ```
 
+### [12-directory_permissions](./12-directory_permissions)
+```
+mkdir -m 751 my_dir
+creates a directory my_dir and grant all privilages to owner, read and execute to group and execute to others (751)
+```
+
