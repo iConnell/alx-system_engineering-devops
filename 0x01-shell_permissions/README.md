@@ -49,3 +49,11 @@ adds execute permission to owner and group, and read permission to others
 chmod a+x
 adds execute permission to everybody
 ```
+
+### [8-James_Bond](./8-James_Bond)
+```
+chmod 007
+adds full permissions to other users but none to owner and group
+```
+
+
