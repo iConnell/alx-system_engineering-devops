@@ -19,3 +19,9 @@ the whoami command is used to print the username of the current user
 groups
 Lists all the groups the current user is part of
 ```
+
+### [3-new_ownder](./3-new_owner)
+```
+chown betty hello
+change the owner of  file "hello" to user "betty"
+```
