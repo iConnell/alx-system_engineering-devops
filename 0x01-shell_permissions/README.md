@@ -46,6 +46,6 @@ adds execute permission to owner and group, and read permission to others
 
 ### [7-everybody](./7-everybody)
 ```
-chmod 751
+chmod a+x
 adds execute permission to everybody
 ```
