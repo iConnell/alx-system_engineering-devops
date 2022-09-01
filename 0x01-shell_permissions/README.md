@@ -37,3 +37,10 @@ creates an empty named hello
 chmod u+x hello
 adds execute permission to the owner of the file hello
 ```
+
+### [6-multiple_permissions](./6-multiple_permissions)
+```
+chmod ug+x, o+x
+adds execute command to owner and group, and read permission to others
+```
+
