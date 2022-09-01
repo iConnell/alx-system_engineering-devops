@@ -61,3 +61,10 @@ adds full permissions to other users but none to owner and group
 chmod 753 hello
 adds full permissions to the owner, read and execute permissions for user group and write and execute to other users
 ```
+
+### [10-mirror_permissions](./10-mirror_permissions)
+```
+chmod --reference=olleh hello
+adds the same exact permissions as the file olleh to the file hello
+```
+
