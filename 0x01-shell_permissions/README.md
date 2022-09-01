@@ -41,6 +41,11 @@ adds execute permission to the owner of the file hello
 ### [6-multiple_permissions](./6-multiple_permissions)
 ```
 chmod 754 hello
-adds execute command to owner and group, and read permission to others
+adds execute permission to owner and group, and read permission to others
 ```
 
+### [7-everybody](./7-everybody)
+```
+chmod 555
+adds execute permission to everybody
+```
