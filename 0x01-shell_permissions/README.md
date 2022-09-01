@@ -46,14 +46,18 @@ adds execute permission to owner and group, and read permission to others
 
 ### [7-everybody](./7-everybody)
 ```
-chmod a+x
+chmod a+x hello
 adds execute permission to everybody
 ```
 
 ### [8-James_Bond](./8-James_Bond)
 ```
-chmod 007
+chmod 007 hello
 adds full permissions to other users but none to owner and group
 ```
 
-
+### [9-John_Doe](./9-John_Doe)
+```
+chmod 753 hello
+adds full permissions to the owner, read and execute permissions for user group and write and execute to other users
+```
