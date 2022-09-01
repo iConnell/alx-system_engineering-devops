@@ -30,3 +30,10 @@ change the owner of  file "hello" to user "betty"
 ```
 touch hello
 creates an empty named hello
+```
+
+### [5-execute](./5-execute)
+```
+chmod u+x hello
+adds execute permission to the owner of the file hello
+```
