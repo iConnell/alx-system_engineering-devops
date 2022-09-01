@@ -80,3 +80,10 @@ mkdir -m 751 my_dir
 creates a directory my_dir and grant all privilages to owner, read and execute to group and execute to others (751)
 ```
 
+### [13-change_group](./13-change_group)
+```
+chgrp school hello
+changes the group owner to school for the file hello
+```
+
+
