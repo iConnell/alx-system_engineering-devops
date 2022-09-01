@@ -25,3 +25,8 @@ Lists all the groups the current user is part of
 chown betty hello
 change the owner of  file "hello" to user "betty"
 ```
+
+### [4-empty](./4-empty)
+```
+touch hello
+creates an empty named hello
