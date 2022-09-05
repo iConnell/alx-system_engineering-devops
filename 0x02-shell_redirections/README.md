@@ -132,3 +132,10 @@ grep ^[[:alpha:]] /etc/ssh/sshd_config
 displays all lines that starts with a letter
 ```
 
+
+### [19-AZ](./19-AZ)
+```
+tr 'A' 'Z' | tr 'c' 'e'
+replaces A and Z with c and e respectively
+```
+
