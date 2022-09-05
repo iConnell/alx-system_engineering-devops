@@ -128,7 +128,7 @@ displays all lines that do not match the pattern
 
 ### [18-letteronly](./18-letteronly)
 ```
-grep ^[[:alpha]] /etc/ssh/sshd_config
+grep ^[[:alpha:]] /etc/ssh/sshd_config
 displays all lines that starts with a letter
 ```
 
