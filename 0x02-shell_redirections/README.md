@@ -139,3 +139,10 @@ tr 'A' 'Z' | tr 'c' 'e'
 replaces A and Z with c and e respectively
 ```
 
+
+### [20-hiago](./20-hiago)
+```
+tr -d 'cC'
+removes all occurences of c and C
+```
+
