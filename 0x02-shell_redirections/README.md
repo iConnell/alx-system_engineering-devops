@@ -70,3 +70,11 @@ tail -1 iacta >> iacta
 gets the last line of the iacta file and appends to the same file
 ```
 
+
+### [10-no_more_js](./10-no_more_js)
+```
+find - type f -name '*.js' -delete
+finds and deletes all files with extension .js
+```
+
+
