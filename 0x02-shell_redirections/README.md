@@ -152,3 +152,11 @@ removes all occurences of c and C
 rev
 rev command reverses it's input
 ```
+
+
+### [22-users_and_homes](./22-users_and_homes)
+```
+cut -d : -f 1,6 /etc/passwd |sort
+displays all users and their home directories sorted by users
+```
+
