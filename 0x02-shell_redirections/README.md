@@ -36,9 +36,17 @@ the tail command displays the last ten lines of a file
 ```
 
 
-## [5-firstlines](./5-firstlines)
+### [5-firstlines](./5-firstlines)
 ```
 head /etc/passwd
 the head command displays the first 10 lines of a file
 ```
+
+
+### [6-third_line](./6-third_line)
+```
+head -3 iacta
+this command prints the third line of the file iacta
+```
+
 
