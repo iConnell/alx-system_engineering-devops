@@ -104,3 +104,9 @@ grep "root" /etc/passwd
 display all the lines containing the word "root" in /etc/passwd
 ```
 
+
+### [15-countthatword](./15-countthatword)
+```
+grep -c "bin" /etc/passwd
+count the number of lines that has the string bin
+```
