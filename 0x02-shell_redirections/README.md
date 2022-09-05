@@ -56,3 +56,10 @@ echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
 creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with the contents "Best School"
 ```
 
+
+### [8-cwd_state](./8-cwd_state)
+```
+ls -la > ls_cwd_content
+writes the result of the ls -la command to the file ls_cwd_content
+```
+
