@@ -119,4 +119,10 @@ displays the lines containing the word "root" and 3 lines after them
 ```
 
 
+### [17-hidethisword](./hidethisword)
+```
+grep -v "bin" /etc/passwd
+displays all lines that do not match the pattern
+```
+
 
