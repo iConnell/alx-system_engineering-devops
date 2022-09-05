@@ -146,3 +146,9 @@ tr -d 'cC'
 removes all occurences of c and C
 ```
 
+
+### [21-reverse](./21-reverse)
+```
+rev
+rev command reverses it's input
+```
