@@ -63,3 +63,10 @@ ls -la > ls_cwd_content
 writes the result of the ls -la command to the file ls_cwd_content
 ```
 
+
+### [9-duplicate_last_line](./9-duplicate_last_line)
+```
+tail -1 iacta >> iacta
+gets the last line of the iacta file and appends to the same file
+```
+
