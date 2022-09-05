@@ -78,3 +78,10 @@ finds and deletes all files with extension .js
 ```
 
 
+### [11-directories](./11-directories)
+```
+find . -type d ! -path . -print | wc -l
+finds all directories and sub directories prints the count
+```
+
+
