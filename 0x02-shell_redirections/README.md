@@ -35,3 +35,10 @@ tail /etc/passwd
 the tail command displays the last ten lines of a file
 ```
 
+
+## [5-firstlines](./5-firstlines)
+```
+head /etc/passwd
+the head command displays the first 10 lines of a file
+```
+
