@@ -97,3 +97,10 @@ sort | uniq -u
 sorts and prints on the unique words in a list of words
 ```
 
+
+### [14-findthatword](./14-findthatword)
+```
+grep "root" /etc/passwd
+display all the lines containing the word "root" in /etc/passwd
+```
+
