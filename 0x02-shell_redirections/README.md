@@ -20,3 +20,10 @@ prints "(Ôo)' to the screen. \" is used to escape "
 cat /etc/passwd
 displays the contents of the passwd file
 ```
+
+
+### [3-twofiles](./3-twofiles)
+```
+cat /etc/passwd /etc/hosts
+displays the contents of the two files
+```
