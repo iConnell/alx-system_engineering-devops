@@ -110,3 +110,13 @@ display all the lines containing the word "root" in /etc/passwd
 grep -c "bin" /etc/passwd
 count the number of lines that has the string bin
 ```
+
+
+### [16-whatsnext](./16-whatsnext)
+```
+grep -A 3 "root" /etc/passwd
+displays the lines containing the word "root" and 3 lines after them
+```
+
+
+
