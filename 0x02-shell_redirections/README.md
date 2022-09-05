@@ -27,3 +27,11 @@ displays the contents of the passwd file
 cat /etc/passwd /etc/hosts
 displays the contents of the two files
 ```
+
+
+### [4-lastlines](./4-lastlines)
+```
+tail /etc/passwd
+the tail command displays the last ten lines of a file
+```
+
