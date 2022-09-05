@@ -15,4 +15,8 @@ prints "(Ôo)' to the screen. \" is used to escape "
 ```
 
 
-
+### [2-hellofile](./2-hellofile)
+```
+cat /etc/passwd
+displays the contents of the passwd file
+```
