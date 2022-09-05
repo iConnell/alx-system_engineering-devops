@@ -52,7 +52,7 @@ this command prints the third line of the file iacta
 
 ### [7-file](./7-file)
 ```
-echo "Best School" > "\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)"
+echo "Best School" > "\*\\\'\"Best School\"\'\\\*$\?\*\*\*\*\*:)"
 creates a file named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) with the contents "Best School"
 ```
 
