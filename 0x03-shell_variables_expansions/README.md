@@ -7,3 +7,10 @@ alias ls='rm *'
 creates an alias of the rm command named ls
 ```
 
+
+### [1-hello_you](./1-hello_you)
+```
+echo "hello $USER"
+prints the hello plus the name of current user
+```
+
