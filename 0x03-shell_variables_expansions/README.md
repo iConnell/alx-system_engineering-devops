@@ -43,3 +43,10 @@ set
 prints all the local environment variables
 ```
 
+
+### [6-create_local_variables](./6-create_local_variables)
+```
+BEST="School"
+creates a local variable named BEST with the value of School
+```
+
