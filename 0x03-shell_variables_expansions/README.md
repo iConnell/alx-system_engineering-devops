@@ -57,3 +57,10 @@ export BEST="School"
 creates a new global variable named BEST with the value of school
 ```
 
+
+### [8-true_knowledge](./8-true_knowledge)
+```
+echo $((128 + $TRUEKNOWLEDGE))
+adds 128 to the value of the TRUEKNOWLEDGE variable
+```
+
