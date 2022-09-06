@@ -14,3 +14,11 @@ echo "hello $USER"
 prints the hello plus the name of current user
 ```
 
+
+
+### [2-path](./2-path)
+```
+export PATH=$PATH:/action
+appends action to the PATH variable
+```
+
