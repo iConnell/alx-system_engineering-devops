@@ -88,7 +88,8 @@ finds all directories and sub directories prints the count
 ### [12-newest_files](./12-newest_files)
 ```
 ls -1t | head -10
-displays the first 10 files in the current directory from newest to oldest```
+displays the first 10 files in the current directory from newest to oldest
+```
 
 
 ### [13-unique](./13-unique)
