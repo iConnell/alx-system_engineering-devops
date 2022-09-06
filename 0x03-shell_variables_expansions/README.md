@@ -94,3 +94,10 @@ and passes to the tr command with replaces all white spaces with newline charact
 which is finally passed to the grep command whith uses invert matching to select all lines that do not match the argument "oo"
 ```
 
+
+### [13-print_float](./13-print_float)
+```
+printf "%.2f\n" $NUM
+displays the value of NUM in two decimal places
+```
+
