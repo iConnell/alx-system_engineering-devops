@@ -29,3 +29,10 @@ echo $PATH | tr : "\n" | wc -l
 prints replaces all ocurrences of " with new lines, counts the number of lines and prints the result
 ```
 
+
+### [4-global_variables](./4-global_variables)
+```
+env
+prints all the environment variables
+```
+
