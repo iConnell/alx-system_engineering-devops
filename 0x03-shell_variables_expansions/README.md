@@ -85,3 +85,12 @@ echo $((2#$BINARY))
 converts the binary value of BINARY variable to base 10
 ```
 
+
+### [12-combinations](./12-combinations)
+```
+echo {a..z}{a..z} | tr " " "\n" | grep -v "oo"
+{a..z}{a..z} creates a combination of all letters from a to z
+and passes to the tr command with replaces all white spaces with newline character
+which is finally passed to the grep command whith uses invert matching to select all lines that do not match the argument "oo"
+```
+
