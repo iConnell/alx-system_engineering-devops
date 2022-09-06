@@ -78,3 +78,10 @@ echo $(($BREATH**$LOVE))
 raises the BREATH variable to the power LOVE variable
 ```
 
+
+### [11-binary_to_decimal](./11-binary_to_decimal)
+```
+echo $((2#$BINARY))
+converts the binary value of BINARY variable to base 10
+```
+
