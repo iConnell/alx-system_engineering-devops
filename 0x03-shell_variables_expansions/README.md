@@ -71,3 +71,10 @@ echo $(($POWER/$DIVIDE)
 divides the power variable by the divide variable
 ```
 
+
+### [10-love_exponent_breath](./10-love_exponent_breath)
+```
+echo $(($BREATH**$LOVE))
+raises the BREATH variable to the power LOVE variable
+```
+
