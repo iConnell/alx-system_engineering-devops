@@ -64,3 +64,10 @@ echo $((128 + $TRUEKNOWLEDGE))
 adds 128 to the value of the TRUEKNOWLEDGE variable
 ```
 
+
+### [9-divide_and_rule](./9-divide_and_rule)
+```
+echo $(($POWER/$DIVIDE)
+divides the power variable by the divide variable
+```
+
