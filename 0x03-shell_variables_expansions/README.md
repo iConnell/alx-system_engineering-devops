@@ -22,3 +22,10 @@ export PATH=$PATH:/action
 appends action to the PATH variable
 ```
 
+
+### [3-paths](./3-paths)
+```
+echo $PATH | tr : "\n" | wc -l
+prints replaces all ocurrences of " with new lines, counts the number of lines and prints the result
+```
+
