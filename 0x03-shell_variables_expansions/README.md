@@ -36,3 +36,10 @@ env
 prints all the environment variables
 ```
 
+
+### [5-local_variables](./5-local_variables)
+```
+set
+prints all the local environment variables
+```
+
