@@ -50,3 +50,10 @@ BEST="School"
 creates a local variable named BEST with the value of School
 ```
 
+
+### [7-create_global_variable](./7-create_global_variable)
+```
+export BEST="School"
+creates a new global variable named BEST with the value of school
+```
+
